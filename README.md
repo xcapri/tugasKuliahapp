@@ -1,5 +1,5 @@
 # tugasKuliahapp
-Berisi tentang Privasi pada semua Aplikasi 
+Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir 
 
 ### A. Pemberitahuan untuk Pendaftaran
 - Aplikasi-aplikasi ini diupload diperuntukan sebagai nilai tugas kami
