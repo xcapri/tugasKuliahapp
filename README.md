@@ -7,5 +7,10 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - Aplikasi kami tidak mengambil data pribadi
 - Aplikasi kami hanya menyimpan informasi untuk proses login & Register
 
-### B. Pertanyaan
+### B. Detail Aplikasi
+- Ndarusify
+- Ontime
+- Serom
+- 
+### C. Pertanyaan
 Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, bisa hubungi email pon.jdev@gmail.com
