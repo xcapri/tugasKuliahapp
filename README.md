@@ -60,7 +60,7 @@ Keunggulan Aplikasi Ontime :
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
   
   
-  **#Kontak** 
+  **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Ontime dapat menghubungi email 07tav2akbar@gmail.com
 
 ### C. Pertanyaan
