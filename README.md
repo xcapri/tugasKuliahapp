@@ -37,7 +37,7 @@ Fitur di dalam nya :
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
   3. Izin kamera untuk fungsi tambah dalil dalam bentuk foto
   
-  **#Kontak** 
+  **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email pon.jdev@gmail.com
 
 # ontime
@@ -60,7 +60,7 @@ Fitur di dalam nya :
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
   3. Izin kamera untuk fungsi tambah dalil dalam bentuk foto
   
-  **#Kontak** 
+  **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email pon.jdev@gmail.com
 
 ### C. Pertanyaan
