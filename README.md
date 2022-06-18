@@ -8,7 +8,7 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - Aplikasi kami hanya menyimpan informasi untuk proses login & Register
 
 ### B. Detail Aplikasi
-- **#Ndarusify**<br>
+- **[Ndarusify](#Ndarusify)**<br>
 Aplikasi Alquran dan catatan dalil simple to use<br>
 Kamu dapat membaca alquran atau dengan mode play audio untuk tahu cara membaca alquran nya. 
 Kamu juga dapat membuat catatan dalil, dimana ketika kalian sedang membaca alquran terus ada surat tertentu yang menarik untuk dikutip, kalian bisa buat catatan di aplikasi ini.<br>
