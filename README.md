@@ -37,31 +37,31 @@ Fitur di dalam nya :
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
   3. Izin kamera untuk fungsi tambah dalil dalam bentuk foto
   
-  **#Kontak** <br>
+  **#Kontak** 
   Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email pon.jdev@gmail.com
 
 # ontime
-Aplikasi ontime ...........<br>
-...................<br>
-Fitur di dalam nya :
+Aplikasi ontime  adalah notepad app for android dan ios dengan aplikasi buku catatan ini , kita bisa membuat memo untuk membantu mengatur tugas dan mengingat tugas <br>
+Keunggulan Aplikasi Ontime :
   1. Mudah digunakan 
   2. User friendly
   3. UI Modern
-  4. Play Audio
-  5. Lihat Terjemahan
-  6. Buat Dalil
-  7. Copy Dalil
+  4. Simple
+  5. Cari Jadwal
+  6. Buat Jadwal
+  7. Ubah Jadwal
   8. Hapus Dalil
-  9. Foto Dalil dari Al-quran 
+  9. Tanggal dan jam untuk pengingat 
   10. Login & Logout
+  
 
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
-  3. Izin kamera untuk fungsi tambah dalil dalam bentuk foto
   
-  **#Kontak** <br>
-  Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email pon.jdev@gmail.com
+  
+  **#Kontak** 
+  Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email 07tav2akbar@gmail.com
 
 ### C. Pertanyaan
 Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, bisa hubungi email pon.jdev@gmail.com
