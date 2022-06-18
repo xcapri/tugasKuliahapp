@@ -9,6 +9,14 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 
 ### B. Detail Aplikasi
 - **[Ndarusify](#ndarusify)**<br>
+- **[ontime](#ontime)**<br>
+- **[Ndarusify](#ndarusify)**<br>
+- **[Ndarusify](#ndarusify)**<br>
+- **[Ndarusify](#ndarusify)**<br>
+- **[Ndarusify](#ndarusify)**<br>
+- **[Ndarusify](#ndarusify)**<br>
+- **[Ndarusify](#ndarusify)**<br>
+# ndarusify
 Aplikasi Alquran dan catatan dalil simple to use<br>
 Kamu dapat membaca alquran atau dengan mode play audio untuk tahu cara membaca alquran nya. 
 Kamu juga dapat membuat catatan dalil, dimana ketika kalian sedang membaca alquran terus ada surat tertentu yang menarik untuk dikutip, kalian bisa buat catatan di aplikasi ini.<br>
@@ -32,9 +40,9 @@ Fitur di dalam nya :
   **#Kontak** 
   Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email pon.jdev@gmail.com
 
-- **[Ontime](#ontime)**<br>
-Aplikasi Ontime .........<br>
-Bla bla bla............<br>
+# ontime
+Aplikasi ontime ...........<br>
+...................<br>
 Fitur di dalam nya :
   1. Mudah digunakan 
   2. User friendly
@@ -55,9 +63,5 @@ Fitur di dalam nya :
   **#Kontak** 
   Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email pon.jdev@gmail.com
 
-- Serom
-- App lain
-- App Lain
-- 
 ### C. Pertanyaan
 Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, bisa hubungi email pon.jdev@gmail.com
