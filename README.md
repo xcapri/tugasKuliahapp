@@ -50,7 +50,7 @@ Keunggulan Aplikasi Ontime :
   5. Cari Jadwal
   6. Buat Jadwal
   7. Ubah Jadwal
-  8. Hapus Dalil
+  8. Hapus Jadwal
   9. Tanggal dan jam untuk pengingat 
   10. Login & Logout
   
@@ -61,7 +61,7 @@ Keunggulan Aplikasi Ontime :
   
   
   **#Kontak** 
-  Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email 07tav2akbar@gmail.com
+  Jika ada pertanyaan mengenai Aplikasi Ontime dapat menghubungi email 07tav2akbar@gmail.com
 
 ### C. Pertanyaan
 Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, bisa hubungi email pon.jdev@gmail.com
