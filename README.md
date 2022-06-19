@@ -12,9 +12,9 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - **[ontime](#ontime)**<br>
 - **[Casienku](#casienku)**<br>
 - **[ELib_Data_Buku](#elib_data_buku)**<br>
-- **[vapeshop](#vapeshop)**<br>
-- **[registerfutsal](#registerfutsal)**<br>
-- **[Badmintonkuy](#Badmintonkuy)**<br>
+- **[Vapeshop](#vapeshop)**<br>
+- **[Register Futsal](#register-futsal)**<br>
+- **[Badmintonkuy](#badmintonkuy)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 # ndarusify
 Aplikasi Alquran dan catatan dalil simple to use<br>
