@@ -14,7 +14,7 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - **[ELib_Data_Buku](#elib_data_buku)**<br>
 - **[vapeshop](#vapeshop)**<br>
 - **[registerfutsal](#registerfutsal)**<br>
-- **[Ndarusify](#ndarusify)**<br>
+- **[Badmintonkuy](#Badmintonkuy)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 # ndarusify
 Aplikasi Alquran dan catatan dalil simple to use<br>
@@ -152,6 +152,22 @@ Keunggulan Aplikasi Ontime :
   
   **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Vapeshop dapat menghubungi email amrullohnurazmi@gmail.com
+  
+  Badmintonkuy
+  Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan badminton, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data    pembokingan untuk memudahkan kegiatan pengelolaan data pembokingan di tempat pembokingan lapangan badminton.<br>
+  Keunggulan Aplikasi Badmintonkuy :
+  1. Mudah digunakan
+  2. User friendly
+  3. Simple
+  4. Menambah data pembokingan
+  5. Menghapus data pembokingan
+  5. Mengubah data pembokingan
+  6. Login dan logout
+  7. #Kebijakan user
+  8. User setuju email yang digunakan semata untuk fungsional Aplikasi
+  9. Data yang masuk hanya semata untuk fungsional Aplikasi
+  #Kontak 
+  Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
 
 
 ### C. Pertanyaan
