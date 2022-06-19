@@ -11,7 +11,7 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - **[Ndarusify](#ndarusify)**<br>
 - **[ontime](#ontime)**<br>
 - **[Casienku](#casienku)**<br>
-- **[ELib Data Buku](#elibdatabuku)**<br>
+- **[ELib_Data_Buku](#elib_data_buku)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 - **[Ndarusify](#ndarusify)**<br>
@@ -83,7 +83,7 @@ Keunggulan Aplikasi Ontime :
   
   **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Casienku dapat menghubungi email rizalekaseptoaji@gmail.com
-# ELib Data Buku
+# ELib_Data_Buku
 Aplikasi E'Lib adalah aplikasi untuk mengelola data buku perpustakaan, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data buku untuk memudahkan kegiatan pengelolaan data buku di perpustakaan.<br>
 Keunggulan Aplikasi Ontime :
   1. Mudah digunakan 
