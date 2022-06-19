@@ -153,8 +153,8 @@ Keunggulan Aplikasi Ontime :
   **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Vapeshop dapat menghubungi email amrullohnurazmi@gmail.com
   
-  Badmintonkuy
-  Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan badminton, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data    pembokingan untuk memudahkan kegiatan pengelolaan data pembokingan di tempat pembokingan lapangan badminton.<br>
+ # Badmintonkuy
+Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan badminton, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data    pembokingan untuk memudahkan kegiatan pengelolaan data pembokingan di tempat pembokingan lapangan badminton.<br>
   Keunggulan Aplikasi Badmintonkuy :
   1. Mudah digunakan
   2. User friendly
@@ -163,10 +163,10 @@ Keunggulan Aplikasi Ontime :
   5. Menghapus data pembokingan
   5. Mengubah data pembokingan
   6. Login dan logout
-  7. #Kebijakan user
-  8. User setuju email yang digunakan semata untuk fungsional Aplikasi
-  9. Data yang masuk hanya semata untuk fungsional Aplikasi
-  #Kontak 
+  **#Kebijakan user** 
+  1. User setuju email yang digunakan semata untuk fungsional Aplikasi
+  2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  #Kontak <br>
   Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
 
 
