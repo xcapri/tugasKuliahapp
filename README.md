@@ -62,7 +62,7 @@ Keunggulan Aplikasi Ontime :
   
   **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Ontime dapat menghubungi email 07tav2akbar@gmail.com
-# Aplikasi Casienku
+# Casienku
 Aplikasi Casienku adalah data recording app for android dengan aplikasi catat data pasien  ini , kita bisa membuat list data untuk membantu mengatur  data supaya lebih mudah akses kapanpun dan dimanapun<br>
 Keunggulan Aplikasi Ontime :
   1. Mudah digunakan 
@@ -83,7 +83,7 @@ Keunggulan Aplikasi Ontime :
   
   **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Casienku dapat menghubungi email rizalekaseptoaji@gmail.com
-# E’Lib Data Buku
+# E'Lib Data Buku
 Aplikasi E'Lib adalah aplikasi untuk mengelola data buku perpustakaan, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data buku untuk memudahkan kegiatan pengelolaan data buku di perpustakaan.<br>
 Keunggulan Aplikasi Ontime :
   1. Mudah digunakan 
