@@ -10,8 +10,8 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 ### B. Detail Aplikasi
 - **[Ndarusify](#ndarusify)**<br>
 - **[ontime](#ontime)**<br>
-- **[Ndarusify](#ndarusify)**<br>
-- **[Ndarusify](#ndarusify)**<br>
+- **[Casienku](#casienku)**<br>
+- **[E'Lib Data Buku](#elibdatabuku)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 - **[Ndarusify](#ndarusify)**<br>
@@ -62,6 +62,47 @@ Keunggulan Aplikasi Ontime :
   
   **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Ontime dapat menghubungi email 07tav2akbar@gmail.com
+# Aplikasi Casienku
+Aplikasi Casienku adalah data recording app for android dengan aplikasi catat data pasien  ini , kita bisa membuat list data untuk membantu mengatur  data supaya lebih mudah akses kapanpun dan dimanapun<br>
+Keunggulan Aplikasi Ontime :
+  1. Mudah digunakan 
+  2. User friendly
+  3. UI Modern
+  4. Simple
+  5. Cari Data
+  6. Buat Data
+  7. Ubah Data
+  8. Hapus Data
+  9. Login & Logout  
+  
+
+  **#Kebijakan user** 
+  1. User setuju email yang digunakan semata untuk fungsional Aplikasi
+  2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  
+  
+  **#Kontak** <br>
+  Jika ada pertanyaan mengenai Aplikasi Casienku dapat menghubungi email rizalekaseptoaji@gmail.com
+# E’Lib Data Buku
+Aplikasi E'Lib adalah aplikasi untuk mengelola data buku perpustakaan, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data buku untuk memudahkan kegiatan pengelolaan data buku di perpustakaan.<br>
+Keunggulan Aplikasi Ontime :
+  1. Mudah digunakan 
+  2. User friendly
+  3. UI Modern
+  4. Simple
+  5. Menambah data buku
+  6. Menghapus data buku
+  7. Mengubah data buku
+  8. Login dan logout
+  
+
+  **#Kebijakan user** 
+  1. User setuju email yang digunakan semata untuk fungsional Aplikasi
+  2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  
+  
+  **#Kontak** <br>
+  Jika ada pertanyaan mengenai Aplikasi E’Lib dapat menghubungi email kikiamrulloh23@gmail.com
 
 ### C. Pertanyaan
 Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, bisa hubungi email pon.jdev@gmail.com
