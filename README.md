@@ -12,8 +12,8 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - **[ontime](#ontime)**<br>
 - **[Casienku](#casienku)**<br>
 - **[ELib_Data_Buku](#elib_data_buku)**<br>
-- **[Ndarusify](#vapeshop)**<br>
-- **[Ndarusify](#registerfutsal)**<br>
+- **[vapeshop](#vapeshop)**<br>
+- **[registerfutsal](#registerfutsal)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 # ndarusify
