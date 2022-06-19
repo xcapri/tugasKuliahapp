@@ -128,7 +128,7 @@ Keunggulan Aplikasi Ontime :
   
   **#Kontak** <br>
   Jika ada pertanyaan mengenai Aplikasi Vapeshop dapat menghubungi email khanifprasetyo90@gmail.com
-  # Registras Futsal
+  # Register Futsal
 Register Futsal adalah sebuah aplikasi belanja Vape. Desain yang user-friendly agar semua orang dapat menggunakannya.
 Fitur lainnya pada aplikasi ini adalah pendaftaran futsal.
 User juga bisa menambahkan data pemain, mengubah data pemain, menghapus data pemain, dan melihat data pemain.
