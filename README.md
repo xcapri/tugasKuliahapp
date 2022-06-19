@@ -166,6 +166,7 @@ Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan 
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
+
   #Kontak <br>
   Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
 
