@@ -36,6 +36,7 @@ Fitur di dalam nya :
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
   3. Izin kamera untuk fungsi tambah dalil dalam bentuk foto
+  4. Seluruh data dapat dikontrol user sekalipun untuk menghapus nya jika itu salah data.
   
   **#Kontak** 
   Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email pon.jdev@gmail.com
@@ -58,6 +59,7 @@ Keunggulan Aplikasi Ontime :
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  3. Seluruh data dapat dikontrol user sekalipun untuk menghapus nya jika itu salah data.
   
   
   **#Kontak** <br>
@@ -79,6 +81,7 @@ Keunggulan Aplikasi:
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  3. Seluruh data dapat dikontrol user sekalipun untuk menghapus nya jika itu salah data.
   
   
   **#Kontak** <br>
@@ -99,6 +102,7 @@ Keunggulan Aplikasi  :
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  3. Seluruh data dapat dikontrol user sekalipun untuk menghapus nya jika itu salah data.
   
   
   **#Kontak** <br>
@@ -124,6 +128,7 @@ Keunggulan Aplikasi Ontime :
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  3. Seluruh data dapat dikontrol user sekalipun untuk menghapus nya jika itu salah data.
   
   
   **#Kontak** <br>
@@ -148,6 +153,7 @@ Keunggulan Aplikasi Ontime :
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  3. Seluruh data dapat dikontrol user sekalipun untuk menghapus nya jika itu salah data.
   
   
   **#Kontak** <br>
@@ -162,14 +168,16 @@ Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan 
   4. Menambah data pembokingan
   5. Menghapus data pembokingan
   5. Mengubah data pembokingan
-  6. Login dan logout
+  6. Login dan logout<br>
+ 
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  3. Seluruh data dapat dikontrol user sekalipun untuk menghapus nya jika itu salah data.
 
   #Kontak <br>
   Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
 
 
 ### C. Pertanyaan
-Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, bisa hubungi email pon.jdev@gmail.com
+Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, atau mengajukan penghapusan akun bisa hubungi email pon.jdev@gmail.com
