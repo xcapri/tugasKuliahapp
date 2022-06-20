@@ -270,21 +270,26 @@ Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan 
   Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
 
 # Enter Computer
-Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan badminton, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data    pembokingan untuk memudahkan kegiatan pengelolaan data pembokingan di tempat pembokingan lapangan badminton.<br>
-  Keunggulan Aplikasi Badmintonkuy :
+Enterkomputer adalah suatu aplikasi pendataan penjualan alat-alat elektronik seperti laptop, komputer dan handphone.
+dengan aplikasi Enterkomputer memudahkan pengguna untuk mengelola penjualan barang mereka, karena fitur di aplikasi terdapat
+Simpan Data Penjualan
+Ubah Data Penjualan 
+Lihat Data Penjualan
+Dilengkapi juga dengan login dan register agar tetap aman.<br>
+  Keunggulan Aplikasi Enter Computer :
   1. Mudah digunakan
   2. User friendly
   3. Simple
-  4. Menambah data pembokingan
-  5. Menghapus data pembokingan
-  5. Mengubah data pembokingan
+  4. Menambah data penjualan
+  5. Menghapus data penjualan
+  5. Mengubah data penjualan
   6. Login dan logout
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
 
   #Kontak <br>
-  Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
+  Jika ada pertanyaan mengenai Aplikasi Enter Computer dapat menghubungi email sygit40@gmail.com
 
 
 
