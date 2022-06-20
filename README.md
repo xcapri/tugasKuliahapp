@@ -17,10 +17,11 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - **[Badmintonkuy](#badmintonkuy)**<br>
 - **[Instabooking Badminton](#instabooking-badminton)**<br>
 - **[Posyandu](#posyandu)**<br>
-- **[Balai Desa](#balaidesa)**<br>
+- **[Balai_Desa](#balaidesa)**<br>
 - **[RestoKuy](#restokuy)**<br>
-- **[Catatan Hutang](#catatanhutang)**<br>
-- **[Enter Computer](#entercomputer)**<br>
+- **[Catatan_Hutang](#catatanhutang)**<br>
+- **[Enter_Computer](#entercomputer)**<br>
+
 # ndarusify
 Aplikasi Alquran dan catatan dalil simple to use<br>
 Kamu dapat membaca alquran atau dengan mode play audio untuk tahu cara membaca alquran nya. 
