@@ -17,10 +17,10 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - **[Badmintonkuy](#badmintonkuy)**<br>
 - **[Instabooking Badminton](#instabooking-badminton)**<br>
 - **[Posyandu](#posyandu)**<br>
-- **[Balai_Desa](#balaidesa)**<br>
+- **[Balai_Desa](#balai-desa)**<br>
 - **[RestoKuy](#restokuy)**<br>
-- **[Catatan_Hutang](#catatanhutang)**<br>
-- **[Enter_Computer](#entercomputer)**<br>
+- **[Catatan Hutang](#catatan-hutang)**<br>
+- **[Enter Computer](#enter-computer)**<br>
 
 # ndarusify
 Aplikasi Alquran dan catatan dalil simple to use<br>
