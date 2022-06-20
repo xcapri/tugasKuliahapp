@@ -177,7 +177,8 @@ Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan 
   Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
   
   # Instabooking Badminton
-Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan badminton, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data    pembokingan untuk memudahkan kegiatan pengelolaan data pembokingan di tempat pembokingan lapangan badminton.<br>
+Instabooking Badminton adalah sebuah aplikasi crud untuk mencatat data booking. Desain yang user-friendly agar semua orang dapat menggunakannya. Pada aplikasi ini menggunakan e-mail sebagai ID account untuk mengantisipasi pembatasan usia user yang akan menggunakan. Fitur lainnya pada aplikasi ini adalah bisa menambahkan data boking yang nantinya digunakan. User juga bisa melihat riwayat booking dan juga bisa mengubah dan menghapus apabila terjadi kekeliruan atau kesalahan data input atau dihapus dengan cara meng-klik secara lama pada bagian data booking yang telah dibuat. Lalu ada Logout untuk keluar account apabila ingin menggantinya dengan e-mail lain.
+Keunggulan Aplikasi Instabooking Badminton<br>
   Keunggulan Aplikasi Badmintonkuy :
   1. Mudah digunakan
   2. User friendly
@@ -191,7 +192,7 @@ Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan 
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
 
   #Kontak <br>
-  Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
+  Jika ada pertanyaan mengenai Aplikasi Instabooking Badminton dapat menghubungi email handoyoalief20@gmail.com
 
 # Posyandu
 Aplikasi Posyandu aadalah aplikasi catatan jenis layanan masyarakat diperuntukkan kepada balita dan anak untuk memantau pertumbuhan badan yaitu dengan memberikan layanan kesehatan ibu dan anak, KB, Imunisasi, Gizi, dan Penanggulangan Diare.
