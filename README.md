@@ -15,6 +15,7 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - **[Vapeshop](#vapeshop)**<br>
 - **[Register Futsal](#register-futsal)**<br>
 - **[Badmintonkuy](#badmintonkuy)**<br>
+- **[Instabooking Badminton](#instabooking-badminton)**<br>
 - **[Ndarusify](#ndarusify)**<br>
 # ndarusify
 Aplikasi Alquran dan catatan dalil simple to use<br>
@@ -177,6 +178,29 @@ Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan 
 
   #Kontak <br>
   Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
+
+ # Instabooking Badminton
+Instabooking Badminton adalah sebuah aplikasi crud untuk mencatat data booking. Desain yang user-friendly agar semua orang dapat menggunakannya.
+Pada aplikasi ini menggunakan e-mail sebagai ID account untuk mengantisipasi pembatasan usia user yang akan menggunakan.
+Fitur lainnya pada aplikasi ini adalah bisa menambahkan data boking yang nantinya digunakan.
+User juga bisa melihat riwayat booking dan juga bisa mengubah dan menghapus apabila terjadi kekeliruan atau kesalahan data input atau dihapus dengan cara meng-klik secara lama pada bagian data booking yang telah dibuat.
+Lalu ada Logout untuk keluar account apabila ingin menggantinya dengan e-mail lain..<br>
+  Keunggulan Aplikasi Instabooking Badminton :
+  1. Mudah digunakan
+  2. User friendly
+  3. Simple
+  4. Menambah data 
+  5. Menghapus data 
+  5. Mengubah data
+  6. Login dan logout<br>
+ 
+  **#Kebijakan user** 
+  1. User setuju email yang digunakan semata untuk fungsional Aplikasi
+  2. Data yang masuk hanya semata untuk fungsional Aplikasi
+  3. Seluruh data dapat dikontrol user sekalipun untuk menghapus nya jika itu salah data.
+
+  #Kontak <br>
+  Jika ada pertanyaan mengenai Aplikasi Instabooking Badminton dapat menghubungi email pon.jdev@gmail.com
 
 
 ### C. Pertanyaan
