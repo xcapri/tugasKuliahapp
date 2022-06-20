@@ -15,7 +15,7 @@ Berisi tentang Privasi pada semua Aplikasi-Aplikasi Latihan Tugas Akhir
 - **[Vapeshop](#vapeshop)**<br>
 - **[Register Futsal](#register-futsal)**<br>
 - **[Badmintonkuy](#badmintonkuy)**<br>
-- **[Instabooking Badminton](#instabooking_badminton)**<br>
+- **[Instabooking Badminton](#instabooking-badminton)**<br>
 - **[Posyandu](#posyandu)**<br>
 - **[Balai Desa](#balaidesa)**<br>
 - **[RestoKuy](#restokuy)**<br>
