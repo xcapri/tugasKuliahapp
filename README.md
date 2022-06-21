@@ -235,7 +235,7 @@ Aplikasi Balai Desa adalah aplikasi yang digunakan untuk mengisi biodata pegawai
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
 
   #Kontak <br>
-  Jika ada pertanyaan mengenai Aplikasi Badmintonkuy dapat menghubungi email iphangprayoga@gmail.com
+  Jika ada pertanyaan mengenai Aplikasi Balaidesa dapat menghubungi email Mukhamadnurkholik992@gmail.com
 
 # RestoKuy
 Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan badminton, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data    pembokingan untuk memudahkan kegiatan pengelolaan data pembokingan di tempat pembokingan lapangan badminton.<br>
