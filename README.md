@@ -188,6 +188,7 @@ Keunggulan Aplikasi Instabooking Badminton<br>
   5. Menghapus data pembokingan
   5. Mengubah data pembokingan
   6. Login dan logout
+
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
@@ -219,15 +220,16 @@ Dan Kemudian ada tombol logout untuk keluar.<br>
   Jika ada pertanyaan mengenai Aplikasi Posyandu dapat menghubungi email Wirosablengg186@gmail.com 
 
 # Balai Desa
-Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan badminton, dengan aplikasi ini kita bisa menambah, menghapus dan mengedit data    pembokingan untuk memudahkan kegiatan pengelolaan data pembokingan di tempat pembokingan lapangan badminton.<br>
-  Keunggulan Aplikasi Badmintonkuy :
+Aplikasi Balai Desa adalah aplikasi yang digunakan untuk mengisi biodata pegawai dalam sebuah struktur kepegawaian di balai desa.selain itu,aplikasi ini pun bisa digunakan untuk mengisi data pada struktur lainya.<br>
+  Keunggulan Aplikasi Balaidesa :
   1. Mudah digunakan
   2. User friendly
   3. Simple
-  4. Menambah data pembokingan
-  5. Menghapus data pembokingan
-  5. Mengubah data pembokingan
+  4. Menambah data 
+  5. Menghapus data 
+  5. Mengubah data 
   6. Login dan logout
+ 
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
@@ -262,6 +264,7 @@ Aplikasi Badmintonkuy adalah aplikasi untuk mengelola data pembokingan lapangan 
   5. Menghapus data pembokingan
   5. Mengubah data pembokingan
   6. Login dan logout
+
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
@@ -284,6 +287,7 @@ Dilengkapi juga dengan login dan register agar tetap aman.<br>
   5. Menghapus data penjualan
   5. Mengubah data penjualan
   6. Login dan logout
+
   **#Kebijakan user** 
   1. User setuju email yang digunakan semata untuk fungsional Aplikasi
   2. Data yang masuk hanya semata untuk fungsional Aplikasi
