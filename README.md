@@ -44,7 +44,7 @@ Fitur di dalam nya :
   3. Izin kamera untuk fungsi tambah dalil dalam bentuk foto
   
   **#Kontak** 
-  Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email pon.jdev@gmail.com
+  Jika ada pertanyaan mengenai Aplikasi Ndarusify dapat menghubungi email @gmail.com
 
 # Ontime
 Aplikasi ontime  adalah notepad app for android dan ios dengan aplikasi buku catatan ini , kita bisa membuat memo untuk membantu mengatur tugas dan mengingat tugas <br>
@@ -298,4 +298,4 @@ Dilengkapi juga dengan login dan register agar tetap aman.<br>
 
 
 ### C. Pertanyaan
-Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, bisa hubungi email pon.jdev@gmail.com
+Jika ada pertanyaan mengenai aplikasi-aplikasi yang kami buat, bisa hubungi email @gmail.com
